@@ -1,5 +1,5 @@
 webchat:
-  description: Chatbot Ecowê
+  description: Chatbot IFAL
   host: 0.0.0.0
   port: 5000
   debug: false
@@ -137,7 +137,7 @@ webchat:
 
 bot:
     brain: brain
-    initial_question: Olá. Eu sou um chatbot e meu nome é Ecowê. Para iniciar uma conversar sobre ecologia, escreva uma pergunta sobre ecologia.
+    initial_question: Olá. Eu sou o chatbot do IFAL e meu nome é Italozinho. Para iniciar uma conversar, escreva uma pergunta sobre uma dúvida do instituto.
     initial_question_srai: YINITIALQUESTION
     default_response: Desculpa, não entendi o que você falou.
     default_response_srai: YEMPTY

@@ -30,7 +30,7 @@ header {
 
 
 #myfooter {
-  background-color: rgb(39, 39, 39);
+  background-color: #2c9c3c;
   color: white;
 }
 
@@ -563,8 +563,8 @@ a:hover {
   }
 
   #logo {
-    height: 54px;
-    width: 105px;
+    height: 100px;
+    width: 100px;
   }
 
   #ifal1 {

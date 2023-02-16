@@ -1291,7 +1291,328 @@ Declaração de composição familiar
              </random> 
     	</template>
   	</category>
-     
+    
+  <category>
+    <pattern>Oi</pattern>
+    <template>
+    <random> 
+                 </li> 
+             </random> <li> Oi, tudo bem? Em que posso te ajudar?
+                 </template>
+  </category>
+
+  <category>
+    <pattern>Olá</pattern>
+    <template>
+    <random> 
+                 </li> 
+             </random> <li> Olá, tudo bem? Em que posso te ajudar?
+                 </template>
+  </category>
+  
+  <category>
+    <pattern>Não # bem</pattern>
+    <template>
+    <random> 
+                 </li> 
+             </random> <li> Caso precise de ajuda, contate a psicóloga do Campus.
+                 </template>
+  </category>
+  
+    <category>
+    <pattern>Tô mal</pattern>
+    <template>
+    <random> 
+                 </li> 
+             </random> <li> Caso precise de ajuda, contate a psicóloga do Campus.
+                 </template>
+  </category>
+  
+  <category>
+    <pattern># triste</pattern>
+    <template>
+    <random> 
+                 </li> 
+             </random> <li> Caso precise de ajuda, contate a psicóloga do Campus.
+                 </template>
+  </category>
+  
+  <category>
+    <pattern>Estou bem</pattern>
+    <template>
+    <random> 
+                 </li> 
+             </random> <li> Que bom! Em que posso te ajudar?
+                 </template>
+  </category>
+  
+  <category>
+    <pattern>Eu # bem</pattern>
+    <template>
+    <random> 
+                 </li> 
+             </random> <li> Que bom! Em que posso te ajudar?
+                 </template>
+  </category>
+
+  <category>
+    <pattern>Quem é você?</pattern>
+    <template>
+    <random> 
+                 <li> Eu sou o chatbot do IFAL! Fui criado para ajudar os alunos em qualquer dúvida que tenham em relação ao campus! Posso te ajudar em algo?
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern># que é você?</pattern>
+    <template>
+    <random> 
+                 <li> Eu sou o chatbot do IFAL! Fui criado para ajudar os alunos em qualquer dúvida que tenham em relação ao campus! Posso te ajudar em algo?
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Por que # foi criado?</pattern>
+    <template>
+    <random> 
+                 <li> Eu fui criado porque foi vista uma necessidade de alguém ajudando os alunos em suas dúvidas a qualquer momento.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern># foi criado porque?</pattern>
+    <template>
+    <random> 
+                 <li> Eu fui criado porque foi vista uma necessidade de alguém ajudando os alunos em suas dúvidas a qualquer momento.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+      <category>
+    <pattern># que é prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> Entende-se por prática profissional a atividade curricular obrigatória que os alunos regularmente matriculados nos cursos técnicos do IFAL deverão desenvolver em organizações públicas, privadas ou no próprio Instituto com a orientação de professores vinculados a cada curso. A prática profissional está instituída nas Normas de Organização Didática do Instituto Federal de Alagoas, como um componente curricular, tendo carga horária mínima de 400 horas. As atividades de prática profissional deverão ser definidas no plano de cada curso e devem contemplar a aplicação dos conhecimentos adquiridos pelo aluno, durante o curso, buscando a unidade teoria-prática com vista à intervenção no mundo do trabalho e na realidade social. Estas atividades são caracterizadas conforme disposto no capítulo XIV, artigo 89, das Normas de Organização Didática do IFAL. Para a obtenção do diploma de técnico de nível médio é necessário que o aluno seja aprovado, em sua prática profissional, além de ter sido aprovado nos demais componentes curriculares do curso.  
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern># # significa prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> Entende-se por prática profissional a atividade curricular obrigatória que os alunos regularmente matriculados nos cursos técnicos do IFAL deverão desenvolver em organizações públicas, privadas ou no próprio Instituto com a orientação de professores vinculados a cada curso. A prática profissional está instituída nas Normas de Organização Didática do Instituto Federal de Alagoas, como um componente curricular, tendo carga horária mínima de 400 horas. As atividades de prática profissional deverão ser definidas no plano de cada curso e devem contemplar a aplicação dos conhecimentos adquiridos pelo aluno, durante o curso, buscando a unidade teoria-prática com vista à intervenção no mundo do trabalho e na realidade social. Estas atividades são caracterizadas conforme disposto no capítulo XIV, artigo 89, das Normas de Organização Didática do IFAL. Para a obtenção do diploma de técnico de nível médio é necessário que o aluno seja aprovado, em sua prática profissional, além de ter sido aprovado nos demais componentes curriculares do curso.  
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+   <category>
+    <pattern># que se faz na prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> Entende-se por prática profissional a atividade curricular obrigatória que os alunos regularmente matriculados nos cursos técnicos do IFAL deverão desenvolver em organizações públicas, privadas ou no próprio Instituto com a orientação de professores vinculados a cada curso. A prática profissional está instituída nas Normas de Organização Didática do Instituto Federal de Alagoas, como um componente curricular, tendo carga horária mínima de 400 horas. As atividades de prática profissional deverão ser definidas no plano de cada curso e devem contemplar a aplicação dos conhecimentos adquiridos pelo aluno, durante o curso, buscando a unidade teoria-prática com vista à intervenção no mundo do trabalho e na realidade social. Estas atividades são caracterizadas conforme disposto no capítulo XIV, artigo 89, das Normas de Organização Didática do IFAL. Para a obtenção do diploma de técnico de nível médio é necessário que o aluno seja aprovado, em sua prática profissional, além de ter sido aprovado nos demais componentes curriculares do curso.  
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+     <category>
+    <pattern>Sem prática profissional # pegar o diploma?</pattern>
+    <template>
+    <random> 
+                 <li> Para a obtenção do diploma de técnico de nível médio é necessário que o aluno seja aprovado, em sua prática profissional, além de ter sido aprovado nos demais componentes curriculares do curso.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern># pegar o diploma sem prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> Para a obtenção do diploma de técnico de nível médio é necessário que o aluno seja aprovado, em sua prática profissional, além de ter sido aprovado nos demais componentes curriculares do curso.
+    </li> 
+             </random> 
+    </template>
+  </category>
+
+<category>
+    <pattern># obter o diploma sem a prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> Para a obtenção do diploma de técnico de nível médio é necessário que o aluno seja aprovado, em sua prática profissional, além de ter sido aprovado nos demais componentes curriculares do curso.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Porque # da prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> A educação profissional é compreendida como entrelaçamento entre experiências vivenciais e conteúdos/saberes necessários para fazer frente às situações nos âmbitos das relações de trabalho, sociais, históricas e políticas, incidindo também esta compreensão na consolidação da aquisição de conhecimentos gerais e conhecimentos operacionais de forma interativa. Conjugar a teoria com a prática é fundamento primordial a partir de proposta pedagógica que tenha como base, dentre outros construtos, a interdisciplinaridade, a contextualização e a flexibilidade, enquanto condição para a superação dos limites entre formação geral e profissional com vistas à consecução da profissionalização que se pretende competente.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern># que serve a prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> A educação profissional é compreendida como entrelaçamento entre experiências vivenciais e conteúdos/saberes necessários para fazer frente às situações nos âmbitos das relações de trabalho, sociais, históricas e políticas, incidindo também esta compreensão na consolidação da aquisição de conhecimentos gerais e conhecimentos operacionais de forma interativa. Conjugar a teoria com a prática é fundamento primordial a partir de proposta pedagógica que tenha como base, dentre outros construtos, a interdisciplinaridade, a contextualização e a flexibilidade, enquanto condição para a superação dos limites entre formação geral e profissional com vistas à consecução da profissionalização que se pretende competente.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Porque é # a prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> A educação profissional é compreendida como entrelaçamento entre experiências vivenciais e conteúdos/saberes necessários para fazer frente às situações nos âmbitos das relações de trabalho, sociais, históricas e políticas, incidindo também esta compreensão na consolidação da aquisição de conhecimentos gerais e conhecimentos operacionais de forma interativa. Conjugar a teoria com a prática é fundamento primordial a partir de proposta pedagógica que tenha como base, dentre outros construtos, a interdisciplinaridade, a contextualização e a flexibilidade, enquanto condição para a superação dos limites entre formação geral e profissional com vistas à consecução da profissionalização que se pretende competente.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern>O que # fazer para prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> Na perspectiva de que o estudante possa relacionar teoria e prática a partir dos conhecimentos (re)construídos no respectivo curso, a prática profissional caracteriza-se pela implementação de atividades tais como: estudos de caso, pesquisas individuais e em equipes, prestação de serviços, produção artística, desenvolvimento de instrumentos, equipamentos, estágio curricular, desenvolvimento de projetos, trabalho de conclusão de curso ou similares e efetivo exercício profissional.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+      <category>
+    <pattern># concluir a prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> Na perspectiva de que o estudante possa relacionar teoria e prática a partir dos conhecimentos (re)construídos no respectivo curso, a prática profissional caracteriza-se pela implementação de atividades tais como: estudos de caso, pesquisas individuais e em equipes, prestação de serviços, produção artística, desenvolvimento de instrumentos, equipamentos, estágio curricular, desenvolvimento de projetos, trabalho de conclusão de curso ou similares e efetivo exercício profissional.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern># que fazer para concluir a prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> Na perspectiva de que o estudante possa relacionar teoria e prática a partir dos conhecimentos (re)construídos no respectivo curso, a prática profissional caracteriza-se pela implementação de atividades tais como: estudos de caso, pesquisas individuais e em equipes, prestação de serviços, produção artística, desenvolvimento de instrumentos, equipamentos, estágio curricular, desenvolvimento de projetos, trabalho de conclusão de curso ou similares e efetivo exercício profissional.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern>Quem pode # ajudar a concluir # prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> A prática profissional, seja ela desenvolvida no âmbito do Instituto ou em empresas públicas ou privadas, tem como partes envolvidas no processo, além do próprio aluno, outros agentes que são necessários para a sua total efetivação. São eles: Coordenação de Curso, Professor, Empresa, Coordenação de Registros Acadêmicos, Coordenação de Apoio ao Ensino (câmpus novos), Coordenação de Integração Escola Empresa - CIEE (Campus Maceió), Coordenação de Estágios e Egressos - CEE (Campus Satuba), Coordenação de Extensão, Coordenação de Pesquisa, Departamento de Educação a Distância - DEPEAD e respectivos polos;
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+      <category>
+    <pattern>Quem pode # auxiliar # prática profissional?</pattern>
+    <template>
+    <random> 
+                 <li> A prática profissional, seja ela desenvolvida no âmbito do Instituto ou em empresas públicas ou privadas, tem como partes envolvidas no processo, além do próprio aluno, outros agentes que são necessários para a sua total efetivação. São eles: Coordenação de Curso, Professor, Empresa, Coordenação de Registros Acadêmicos, Coordenação de Apoio ao Ensino (câmpus novos), Coordenação de Integração Escola Empresa - CIEE (Campus Maceió), Coordenação de Estágios e Egressos - CEE (Campus Satuba), Coordenação de Extensão, Coordenação de Pesquisa, Departamento de Educação a Distância - DEPEAD e respectivos polos;
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Quem pode auxiliar na prática profissional?
+</pattern>
+    <template>
+    <random> 
+                 <li> A prática profissional, seja ela desenvolvida no âmbito do Instituto ou em empresas públicas ou privadas, tem como partes envolvidas no processo, além do próprio aluno, outros agentes que são necessários para a sua total efetivação. São eles: Coordenação de Curso, Professor, Empresa, Coordenação de Registros Acadêmicos, Coordenação de Apoio ao Ensino (câmpus novos), Coordenação de Integração Escola Empresa - CIEE (Campus Maceió), Coordenação de Estágios e Egressos - CEE (Campus Satuba), Coordenação de Extensão, Coordenação de Pesquisa, Departamento de Educação a Distância - DEPEAD e respectivos polos;
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Onde fazer # inscrição da prática profissional?
+</pattern>
+    <template>
+    <random> 
+                 <li> Efetuar sua inscrição na atividade/modalidade de prática profissional no setor responsável: CIEE (Campus Maceió), Coordenação de Estágios e Egressos (Campus Satuba), Coordenação de Extensão (demais campus) e representante da DEPEAD nos respectivos pólos;
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern>Onde faço # inscrição na prática profissional?
+</pattern>
+    <template>
+    <random> 
+                 <li> Efetuar sua inscrição na atividade/modalidade de prática profissional no setor responsável: CIEE (Campus Maceió), Coordenação de Estágios e Egressos (Campus Satuba), Coordenação de Extensão (demais campus) e representante da DEPEAD nos respectivos pólos;
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Onde # # posso fazer # inscrição para prática profissional?
+</pattern>
+    <template>
+    <random> 
+                 <li> Efetuar sua inscrição na atividade/modalidade de prática profissional no setor responsável: CIEE (Campus Maceió), Coordenação de Estágios e Egressos (Campus Satuba), Coordenação de Extensão (demais campus) e representante da DEPEAD nos respectivos pólos;
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Quando # realizar # prática profissional?
+</pattern>
+    <template>
+    <random> 
+                 <li> A partir da segunda série, quando se tratar de curso integrado à educação profissional com formato curricular seriado anual; A partir do terceiro semestre, quando se tratar de cursos na modalidade de educação de jovens e adultos; A partir do primeiro semestre, quando se tratar de cursos na forma subsequente/concomitante.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern># que série # concluir minha prática profissional?
+</pattern>
+    <template>
+    <random> 
+                 <li> A partir da segunda série, quando se tratar de curso integrado à educação profissional com formato curricular seriado anual; A partir do terceiro semestre, quando se tratar de cursos na modalidade de educação de jovens e adultos; A partir do primeiro semestre, quando se tratar de cursos na forma subsequente/concomitante.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern># partir # quando posso realizar minha prática profissional?
+</pattern>
+    <template>
+    <random> 
+                 <li> A partir da segunda série, quando se tratar de curso integrado à educação profissional com formato curricular seriado anual; A partir do terceiro semestre, quando se tratar de cursos na modalidade de educação de jovens e adultos; A partir do primeiro semestre, quando se tratar de cursos na forma subsequente/concomitante.
+    </li> 
+             </random> 
+    </template>
+  </category>
+  
+  
 </aiml>
 
 

@@ -880,6 +880,417 @@ Seleção Externa: para os cursos ofertados na modalidade a distância, que est�
              </random> 
          </template> 
      </category>
+  
+  	<category>
+    	<pattern> # processo # matrícula # IFAL # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+        	O processo de matrícula na escola pode variar dependendo do edital de cada processo seletivo. Normalmente, os alunos precisam ficar atentos ao período de inscrições e se candidatarem aos cursos ofertados através do site do IFAL.Porém normalmente se precisa preencher o requerimento de matrícula online e anexar: 
+</li> 
+             </random> 
+    	</template>
+  	</category>
+ 
+    
+    <category>
+    	<pattern> # documentação # matrícula # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	Identidade e CPF  - Cadastro de pessoa física,
+2 fotos 3x4 idênticas,
+Certidão de nascimento,
+Comprovante de residencia,
+Documento que comprove sua situação militar para maiores de 18,
+Quitação eleitoral(+18),
+Histórico escolar,
+Declaração de composição familiar
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # idade # mínima # matrícula # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Não há idade mínima
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	
+  	<category>
+    	<pattern> # grade # curricular # ensino # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Links das grades do ensino médio integrado: 
+    	    https://www2.ifal.edu.br/campus/palmeira/ensino/arquivos/aprojetodocursodeseguranadotrabalhopalmeiradosindios1011151.pdf
+            https://www2.ifal.edu.br/campus/palmeira/ensino/arquivos/PLANODOINFORMATICAPALMEIRADOSINDIOSREVISADOPROEN11052016.pdf
+            https://www2.ifal.edu.br/campus/palmeira/ensino/arquivos/EletrotcnicaIntegrado.pdf
+            https://www2.ifal.edu.br/campus/palmeira/ensino/arquivos/EdificaesIntegrado.pdf
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # intercâmbio # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Sim, existem diversos planos de intercâmbio e projetos de pesquisa inclusive com visitas a Nasa, a de verdade não a dos travesseiros.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # infraestrutura # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    O Ifal conta com auditórios, 3 quadras para modalidades diferentes, instalações para a maioria dos cursos e laboratórios equipados com alta tecnologia para os alunos.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # acessibilidade # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    A escola apresenta acessibilidade bem formada para alunos cegos e surdos e sempre da seu melhor pra melhor para essa questão.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # segurança # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    A escola tem pessoal nas 2 portarias pronto pra agir em caso de necessidade.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+    
+    <category>
+    	<pattern> # política # uniforme # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Existem 2 uniformes padrões, normal e de educação física, no ultimo ano cada turma tem direito a criar sua propria farda.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # metodologia # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Todas as metodologias constam no PPP da escola: https://www2.ifal.edu.br/campus/murici/ensino/cursos/pos-graduacao/especializacao-em-metodologias-aplicadas-no-ensino-de-ciencias-e-matematica/PPCEspecializaoMetodologiasAplicadasnoEnsinodecinciasematemticaCampusMurici_revisado.pdf
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+    <category>
+    	<pattern> # oferta # palestras # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Sim, diversos.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	    <category>
+    	<pattern> # oferta # cursos # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Sim, diversos.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # comunidade # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    A comunidade ifal sempre busca se unir com atividades como interclasse e eventos coletivos que visam a interação entre as turmas.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+    
+    <category>
+    	<pattern> # avaliação # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    A avaliação do desempenho dos alunos no IFAL Palmeira dos Índios é feita através de provas, trabalhos, atividades em grupo e participação em sala de aula, conforme consta no Regimento Interno da instituição.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+    <category>
+    	<pattern> # faltas # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Há um limite máximo para ser usado ao longo do ano se for excedido o aluno reprova.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+    <category>
+    	<pattern> # transferência # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+            O processo é online e consta no sigaa. Mais informações: https://www2.ifal.edu.br/campus/palmeira/editais/arquivos/EDITALDETRANSFERENCIA2022_2.pdf	
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+    <category>
+    	<pattern> # necessidades # discentes # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Com os setores sociais, centro de enfermagem e psicologia.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+    <category>
+    	<pattern> # processos # estágios # viagens # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    É através de um processo seletivo.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	
+    <category>
+    	<pattern> # projetos # voluntariado # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Uma das formas é atraves de projetos de extensão.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+    <category>
+    	<pattern> # qualidade # infraestrutura # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Qualidade é mediana.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # renovação # matrícula # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    É automatica.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+    <category>
+    	<pattern> # acessibilidade # todos # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    O IFAL Palmeiras dos Índios oferece apoio para estudantes com necessidades especiais, através da Coordenadoria de Atendimento Educacional Especializado (CAEE).
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # biblioteca # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Equipada com milhares de titulos, area de estudo reservada, ar condicionados e wifi proprio.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # nível # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    A escola oferece ensino técnico integrado ao ensino médio.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # sustentabilidade # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	A escola usa paineis solares para fornecer energia limpa e possui diversas arvores no campos dentre elas varias são frutiferas como as listadas abaixo:
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # frequência # eventos # culturais # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Mensalmente há exibição de filmes, e geralmente de mês em mês tem algum evento.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	
+  	<category>
+    	<pattern> # público # privada #</pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    A escola é pública.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # frequência # viagens # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Algumas vezes durante o curso, 1, 2 ou 3, varia muito.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # reuniões # pais # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    Sempre tem reunião entre os país e a pedagogia.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # estágios # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	O estágio é parte da prática profissional que é obrigatória para emitir certificado.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+    <category>
+    	<pattern> # alimentação # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	Não se pode comer nos laboratórios, para isso existe a cantina.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # endereço # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	Avenida dos Expedicionários, 455 - Centro, Palmeira dos Índios - AL, 57600-000.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # formação # professores # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	Existe um nível mínimo para o ensino de alunos do ensino médio e a maioria dos professores tem formação alta e salários mais altos ainda.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # diversidade # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	    O ifal respeita as diferenças de seus discentes e docentes.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # cursos # comunidade # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	A comunidade interna e externa recebe cursos extras como espaço 4.0 e cursos online.
+</li> 
+             </random> 
+    	</template>
+  	</category>
+  	
+  	<category>
+    	<pattern> # acessibilidade # especiais # </pattern>
+    	<template>
+        <random> 
+                 <li> 
+    	 O Ifal apoia as práticas e possui 3 campos para atividades diferentes.
+</li> 
+             </random> 
+    	</template>
+  	</category>
      
 </aiml>
 

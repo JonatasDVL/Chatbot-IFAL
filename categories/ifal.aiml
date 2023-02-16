@@ -1612,6 +1612,177 @@ Declaração de composição familiar
     </template>
   </category>
   
+      <category>
+    <pattern>Prática profissional # obrigatória?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    A prática profissional é componente curricular obrigatório nos cursos técnicos de nível médio, sendo a aprovação na mesma condição necessária à obtenção do diploma.
+ Parágrafo Único - para os cursos de graduação a exigência da prática profissional como requisito para a obtenção do diploma fica condicionada ao projeto do curso e ao marco normativo correlato.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>É obrigatório # prática profissional?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    A prática profissional é componente curricular obrigatório nos cursos técnicos de nível médio, sendo a aprovação na mesma condição necessária à obtenção do diploma.
+ Parágrafo Único - para os cursos de graduação a exigência da prática profissional como requisito para a obtenção do diploma fica condicionada ao projeto do curso e ao marco normativo correlato.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern># prática profissional é obrigatória?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    A prática profissional é componente curricular obrigatório nos cursos técnicos de nível médio, sendo a aprovação na mesma condição necessária à obtenção do diploma.
+ Parágrafo Único - para os cursos de graduação a exigência da prática profissional como requisito para a obtenção do diploma fica condicionada ao projeto do curso e ao marco normativo correlato.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+      <category>
+    <pattern>Quantos pontos passo # prática profissional?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    Será atribuída à prática profissional uma pontuação de 0,0 (zero) a 10,0 (dez), e o estudante será aprovado com, no mínimo, 6,0 (seis) pontos para os cursos técnicos de nível médio e, no mínimo, 7,0 (sete) pontos para os cursos de graduação.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+        <category>
+    <pattern>Quantos pontos preciso para passar na # da prática profissional?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    Será atribuída à prática profissional uma pontuação de 0,0 (zero) a 10,0 (dez), e o estudante será aprovado com, no mínimo, 6,0 (seis) pontos para os cursos técnicos de nível médio e, no mínimo, 7,0 (sete) pontos para os cursos de graduação.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Que pontuação é atribuída # prática profissional?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    Será atribuída à prática profissional uma pontuação de 0,0 (zero) a 10,0 (dez), e o estudante será aprovado com, no mínimo, 6,0 (seis) pontos para os cursos técnicos de nível médio e, no mínimo, 7,0 (sete) pontos para os cursos de graduação.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern># # carga horária da prática profissional?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    A carga horária, mínima, destinada à prática profissional será de 400 (quatrocentas) horas para os Cursos Técnicos de Nível Médio e 300 horas para os Cursos de Licenciatura.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+   <category>
+    <pattern>Qual # a carga horária mínima para prática profissional?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    A carga horária, mínima, destinada à prática profissional será de 400 (quatrocentas) horas para os Cursos Técnicos de Nível Médio e 300 horas para os Cursos de Licenciatura.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Qual # a carga horária para prática profissional?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    A carga horária, mínima, destinada à prática profissional será de 400 (quatrocentas) horas para os Cursos Técnicos de Nível Médio e 300 horas para os Cursos de Licenciatura.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern># calcular a média de pontuação da prática profissional?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    Quando a prática profissional envolver múltiplas atividades como projetos, estágio curricular ou outras formas previstas no plano de cada curso, sua nota será a média aritmética das notas atribuídas a cada uma dessas atividades.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Como se calcula # média # prática profissional?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    Quando a prática profissional envolver múltiplas atividades como projetos, estágio curricular ou outras formas previstas no plano de cada curso, sua nota será a média aritmética das notas atribuídas a cada uma dessas atividades.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+    <category>
+    <pattern>O que # se # não atingir # nota mínima # prática profissional?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    Caso o estudante não alcance a nota mínima de aprovação na prática profissional, deverá ser reorientado pelo professor, com o fim de realizar as necessárias adequações/correções em um prazo máximo de até 30 (trinta) dias para nova avaliação.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+   <category>
+    <pattern>Se # não atingir a nota mínima da prática profissional # que acontece?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    Caso o estudante não alcance a nota mínima de aprovação na prática profissional, deverá ser reorientado pelo professor, com o fim de realizar as necessárias adequações/correções em um prazo máximo de até 30 (trinta) dias para nova avaliação.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
+  <category>
+    <pattern>Se # não atingir a nota mínima da prática profissional # que acontece?
+</pattern>
+    <template>
+        <random> 
+                 <li> 
+    Caso o estudante não alcance a nota mínima de aprovação na prática profissional, deverá ser reorientado pelo professor, com o fim de realizar as necessárias adequações/correções em um prazo máximo de até 30 (trinta) dias para nova avaliação.
+</li> 
+             </random> 
+    </template>
+  </category>
+  
   
 </aiml>
 

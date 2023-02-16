@@ -753,4 +753,135 @@ profissão.
              </random> 
          </template> 
      </category>
+     <category> 
+         <pattern> # MATRIZ CURRICULAR #  </pattern> 
+         <template> 
+             <random> 
+                 <li> É constituída pelas relações de interdependência e temporalidade entre os componentes curriculares e atividades do currículo de um curso. Especifica a ordem na qual os componentes curriculares e atividades devem ser cursadas e realizadas pelo discente em determinado período de tempo (ano, semestre, trimestre, etc.), além de pré-requisitos e equivalências para cada disciplina.
+
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # PRÉ # REQUISITO #  </pattern> 
+         <template> 
+             <random> 
+                 <li> É um conhecimento indispensável, adquirido através de determinadas atividades formativas ou componente(s) curricular(es), visando à continuidade de estudos mais avançados, através de outras atividades formativas ou componente(s) curricular(es). Quando no projeto do curso houver a recomendação de inscrição de componentes curriculares em paralelo, configura-se a situação de co-requisito.
+
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # MOBILIDADE ACADÊMICA #  </pattern> 
+         <template> 
+             <random> 
+                 <li> É a possibilidade de afastamento temporário do discente para o desenvolvimento de atividades de natureza acadêmica, científica, artística e cultural, estágio, Trabalho de Conclusão de Curso (TCC), atividades de extensão e/ou pesquisa orientada, em outra instituição de ensino superior ou centro de pesquisa no Brasil ou no exterior. Nesse sentido, a mobilidade pode ser interna, nacional ou internacional, tanto para estudantes do Ifal quanto para estudantes de outras instituições de ensino superior ou pesquisa, do Brasil ou do exterior que vêm para o Ifal.
+
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # MUDAR DE CURSO #  </pattern> 
+         <template> 
+             <random> 
+                 <li> Sim, por transferência interna, através dos Processos Seletivos de Transferência e Equivalência, que o Ifal disponibiliza conforme os Editais que são publicados com regularidade, conforme o seu desempenho nesses processos seletivos.
+
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # PROCESSO SELETIVO # GRADUAÇÃO #   </pattern> 
+         <template> 
+             <random> 
+                 <li> Existem três possibilidades de ingresso no Ifal: (1) através do SISU, (2) pelos Editais de Transferência e Equivalência e (3) via Seleção Externa.
+SISU (Sistema de Seleção Unificada): O Sisu é o sistema informatizado do Ministério da Educação, no qual instituições públicas de ensino superior oferecem vagas para candidatos participantes do Exame Nacional de Ensino Médio (Enem). Os candidatos com melhor classificação são selecionados, de acordo com suas notas no exame.
+Processo Seletivo de Transferência Externa: ocorre quando um candidato que está regularmente vinculado a um curso de graduação, no ano letivo em vigor, em outra instituição de ensino superior, ter concluído o primeiro período, apresentar as condições exigidas no edital e apresentar toda a documentação exigida por este Edital.
+Processo Seletivo por Equivalência: é a possibilidade de um candidato que já tenha diploma de curso superior reconhecido pelo MEC, ou revalidado no Brasil, realizar um outro curso de graduação no Ifal. Ele deverá passar no processo seletivo oficializado por edital, cumprindo todos os requisitos necessários.
+Seleção Externa: para os cursos ofertados na modalidade a distância, que estão a cargo da Diretoria de Ensino a Distância (DIREAD),com inscrições no próprio site do Ifal.</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # RECURSO #  </pattern> 
+         <template> 
+             <random> 
+                 <li> É um ato que visa à revisão e à modificação da decisão final de processo acadêmico ou situação acadêmica, na mesma instância, para reconsideração, ou em instância superior, por meio da apresentação de novos argumentos e/ou comprovantes.
+
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # VAGAS RESERVADAS #  </pattern> 
+         <template> 
+             <random> 
+                 <li> Sim. Essa é uma definição legal. De acordo com a Lei nª12.711, de 29 de agosto de 2012, as Universidades Públicas Federais e Institutos Federais devem assegurar que no mínimo 50% das vagas sejam destinados a alunos que cursaram  integralmente o Ensino Fundamental ou o Ensino Médio, conforme o caso, em escolas públicas.
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # TEMPO DE INTEGRALIZAÇÃO #  </pattern> 
+         <template> 
+             <random> 
+                 <li> É o tempo fixado pelo Conselho Nacional de Educação para cumprimento do currículo de um curso, podendo ser integralizado em tempos mínimo e máximo, considerando o tempo necessário à integralização, em ritmo que assegure um aproveitamento satisfatório.
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # CURSOS EAD #  </pattern> 
+         <template> 
+             <random> 
+                 <li> São cursos na modalidade a distância, mediados por tecnologia digitais de informação e comunicação (TDIC), realizados em um Ambiente Virtual de Aprendizagem (AVA).
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # DIST NCIA # TOTALMENTE ONLINE #   </pattern> 
+         <template> 
+             <random> 
+                 <li> O cursos são semipresenciais. Isso quer dizer que 30% da carga horária do curso é composta por encontros presenciais que acontecem aos sábados nos polos UAB espalhados pelo estado (Arapiraca, Cajueiro, Maceió, Palmeira dos Índios, Penedo, Piranhas, Santana do Ipanema e São José da Laje). As outras horas são realizadas online, em atividades realizadas através de nosso ambiente virtual de aprendizagem.
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # DIFERENÇA # DIPLOMA # CURSOS EAD #  </pattern> 
+         <template> 
+             <random> 
+                 <li> O diploma obtido em um curso na modalidade distância tem o mesmo valor legal daquele obtido na modalidade presencial; não há nada no documento que o diferencie de um obtido na modalidade presencial.
+
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # BOLSISTA # CONCORRER # AUXÍLIO #  </pattern> 
+         <template> 
+             <random> 
+                 <li> A/O estudante terá direito apenas a 01 (uma) bolsa com vínculo institucional, sendo vedado o acúmulo de bolsas, mesmo que de categorias diferentes, sendo permitido acumular bolsa e auxílios.
+
+</li> 
+             </random> 
+         </template> 
+     </category>
+     <category> 
+         <pattern> # OFERTAS # EAD #  </pattern> 
+         <template> 
+             <random> 
+                 <li> Sim. Atualmente o Ifal oferta três cursos de graduação a distância e uma especialização. A nível de graduação disponibilizamos um bacharelado em Administração Pública e duas licenciaturas (Ciências Biológicas e Letras - Português). No segundo semestre iniciaremos uma especialização em Docência da Educação Profissional. Todos esses cursos estão vinculados a Universidade Aberta do Brasil, um programa da Capes/ Governo Federal.
+</li> 
+             </random> 
+         </template> 
+     </category>
+     
 </aiml>
+
+
+
